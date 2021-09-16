@@ -18,7 +18,7 @@ jobs:
             latest: 0
             experimental: false
           - terraform-version: "1.0.6"
-            terraform-sha256sum: "2047f8afc7d0d7b645a0422181ba3fe47b3547c4fe658f95eebeb872752ec129"
+            terraform-sha256sum: "6a454323d252d34e928785a3b7c52bfaff1192f82685dfee4da1279bb700b733"
             latest: 0
             experimental: false
       
