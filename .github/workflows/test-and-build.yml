@@ -27,7 +27,7 @@ jobs:
     env:
       LATEST: ${{ matrix.build-jobs.latest }}
       TERRAFORM_VERSION: ${{ matrix.build-jobs.terraform-version }}
-      TERRAFROM_SHA256SUM: ${{ matrix.build-jobs.terraform-sha256sum }}
+      TERRAFORM_SHA256SUM: ${{ matrix.build-jobs.terraform-sha256sum }}
 
     steps:
       - uses: actions/checkout@v2
